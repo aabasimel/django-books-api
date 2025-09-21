@@ -16,6 +16,7 @@ This project demonstrates creating models, serializers, and class-based API view
 
 ## Project Structure
 
+```text
 my_project1/
 ├── my_app/ # Django app containing models, views, serializers
 │ ├── migrations/
@@ -29,7 +30,7 @@ my_project1/
 │ └── wsgi.py
 ├── manage.py # Django management script
 └── README.md
-
+```
 
 ---
 
